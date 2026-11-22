@@ -10,6 +10,12 @@ A responsive, browser-based electrical service estimate calculator. Created as a
 - Printable estimate summary
 - Responsive layout; no server, accounts, dependencies, or stored customer data
 
+## For employers
+Read the [project case study](PORTFOLIO.md) for my role, technology, validation, and planned improvements.
+
+## Validation
+Run `node --test tests/*.test.cjs` with Node.js 22+. GitHub Actions also runs these tests on pushes and pull requests.
+
 ## Live demo
 Once GitHub Pages is enabled: https://jbyerstemp-jpg.github.io/fieldtech-pro/
 
